@@ -1,0 +1,1 @@
+python tests/parameterServer/pytorch_distributed_trainer_fixed.py --models resnet18,alexnet --players 2 --iterations 10
